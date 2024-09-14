@@ -180,11 +180,11 @@ Castlevania 1, Konami, UNROM, 1987, 8 in 1,
 
 Castlevania 2, Konami, MMC-1, 1988, Claster's Cartrige,
  Castlevania 2/1.jpg,
- Castlevania 2/2.JPG;
+ Castlevania 2/2.jpg;
 
 Castlevania 3, Konami, MMC-5, 1990, Claster's Cartrige,
  Castlevania 3/1.jpg,
- Castlevania 3/2.JPG;
+ Castlevania 3/2.jpg;
 
 Cabal, FabTek, AOROM, 1989, Claster's Cartrige,
  Cabal/1.jpg,
