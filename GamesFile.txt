@@ -143,7 +143,9 @@ Bee-52, Code Masters, UNROM, 1992, Claster's Cartrige,
 Big Nose The Caveman, Code Masters, UNROM, 1991, 2 in 1,
  Big Nose The Caveman/1.jpg,
  Big Nose The Caveman/2.jpg,
- Big Nose The Caveman/3.jpg;
+ Big Nose The Caveman/3.jpg,
+ Big Nose The Caveman/4.jpg,
+ Big Nose The Caveman/5.jpg;
 
 Big Nose Freaks Out, Code Masters, UNROM, 1992, 2 in 1,
  Big Nose Freaks Out/1.jpg,
