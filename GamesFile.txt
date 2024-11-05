@@ -267,7 +267,11 @@ Contra 1, Konami, UNROM, 1987, 6 in 1,
  Contra/2.jpg,
  Contra/3.jpg, 
  Contra/4.jpg,
- Contra/5.jpg;
+ Contra/5.jpg,
+ Contra/6.jpg,
+ Contra/7.jpg,
+ Contra/8.jpg,
+ Contra/9.jpg;
 
 Contra 1 (Japan), Konami, UNROM, 1987, Claster's Cartrige,
 	Contra Japan/1.jpg,
