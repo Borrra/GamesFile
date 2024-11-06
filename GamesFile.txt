@@ -463,21 +463,19 @@ Front Line, "Taito", "NROM", "1985", 64 in 1,
 	Front Line/2.jpg,
 	1. General/9.jpg;
 			
-The Fantastic Adventures of Dizzy", "Code Masters", "UNROM", "1992", "1 in 1",
- 	Dizzy/1.jpg",
-	Dizzy/2.jpg",
- 	Dizzy/3.jpg";
+The Fantastic Adventures of Dizzy, Code Masters, UNROM, 1992, 1 in 1,
+ 	Dizzy/1.jpg,
+	Dizzy/2.jpg,
+	Big Nose The Caveman/3.jpg,
+	Dizzy/4.jpg,
+	Dizzy/5.jpg,
+ 	Dizzy/3.jpg;
 			
-The Fant. Advent. of Dizzy 250 stars", "Code Masters", "UNROM", "1992", "1 in 1", 
- 	Dizzy/1.jpg",
- 	Dizzy/2.jpg",
- 	Dizzy/3.jpg";
-			
-Felix The Cat", "Hudson Soft", "MMC-3", "1992", "1 in 1",
- 	Felix The Cat/1.png",
- 	Felix The Cat/2.png",
- 	Felix The Cat/3.jpg", 
- 	Super Mario Bross 2/3.jpg";
+Felix The Cat, Hudson Soft, MMC-3, 1992, 1 in 1,
+ 	Felix The Cat/1.png,
+ 	Felix The Cat/2.png,
+ 	Felix The Cat/3.jpg, 
+ 	Super Mario Bross 2/3.jpg;
 			
 Felix The Cat by Dragon Co", "Dragon Co", unknown, "1992", Claster's Cartrige,
 	Felix by Dragon/1.jpg,
