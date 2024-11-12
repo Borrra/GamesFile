@@ -236,6 +236,7 @@ Chip and Dale 3, Pirate Stuff, MMC-3, 1992, 1 in 1,
  Heavy Barrel/1.jpg,
  Heavy Barrel/2.jpg,
  1. General/5.jpg,
+ 1. General/6.jpg,
  1. General/11.jpg;
 
 Circus Charlie, Konami, NROM, 1985, 64 in 1,
@@ -769,10 +770,11 @@ Jungle Book, "Virgin", "MMC-3", "1994", "2 in 1",
 	The Jungle Book/3.jpg";
 			
 Jurassic Park, "Ocean", "MMC-3", "1993", "1 in 1",
-	Jurassic Park/1.jpeg",
-	Jurassic Park/2.jpg",
-	Jurassic Park/3.jpg",
-	Super Mario Bross 2/3.jpg";
+	Jurassic Park/1.jpg,
+	Jurassic Park/2.jpg,
+	Jurassic Park/3.jpg,
+	Super Mario Bross 2/3.jpg,
+	Jurassic Park/6.jpg;
 
 	// K
 			
