@@ -1364,7 +1364,13 @@ Rugar, "Tecmo", "UNROM", "1987", "4 in 1",
 	Rugar/1.jpg",
 	Rugar/2.jpg",
 	Rugar/3.jpg",
-	Best of the Best/3.jpg";     
+	Best of the Best/3.jpg";
+
+Rush'n Attack, "Konami", "UNROM", "1985", "2 in 1",
+	Rush'n Attack/1.jpg,
+	Rush'n Attack/2.jpg,
+	Rush'n Attack/3.jpg,
+	Rush'n Attack/4.jpg;
 			
 Robocop VS Terminator, Virgin, unknown, "1993", Claster's Cartrige,
 	RoboCop VS The Terminator/1.jpg,
