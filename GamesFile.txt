@@ -585,10 +585,10 @@ Galaxy 5000, "Activision", "NROM", "1991", Claster's Cartrige,
 	Galaxy 5000/1.jpg;
 			
 Green Beret", "Konami", "UNROM", "1985", "2 in 1",
-	Green Beret/1.jpg",
-	Green Beret/2.jpg",
-	Green Beret/3.jpg",
-	Prince of Persia/4.jpg";
+	Green Beret/1.jpg,
+	Green Beret/2.jpg,
+	Green Beret/3.jpg,
+	Green Beret/4.jpg;
 			
 Gremlins 2, "SunSoft", "MMC-3", "1990", "Claster's Cartrige",
 	Gremlins 2/1.jpg",
