@@ -1394,11 +1394,6 @@ Road Fighter, "Konami", "NROM", "1985", 64 in 1,
 	Road Fighter/5.jpg,
 	1. General/9.jpg;
 			
-Rush'n Attack, "Konami", "UNROM", "1987", "2 in 1",
-	Green Beret/1.jpg",
-	Green Beret/2.jpg",
-	Green Beret/3.jpg";
-			
 Robocop 2, "Ocean", "MMC-1", "1990", Claster's Cartrige,
 	Robocop 2/1.jpg,
 	Robocop 2/2.jpg;
