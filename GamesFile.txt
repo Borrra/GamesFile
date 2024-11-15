@@ -1397,11 +1397,11 @@ Robocop 2, "Ocean", "MMC-1", "1990", Claster's Cartrige,
 	Robocop 2/1.jpg,
 	Robocop 2/2.jpg;
 			
-Robocop 3, "Ocean", "MMC-3", "1992", "2 in 1",
-	Robocop 3/1.jpg",
-	Robocop 3/2.jpg",
-	Robocop 3/3.jpg",
-	Snake Rattle n Roll/3.jpg";
+Robocop 3, Ocean, MMC-3, 1992, 2 in 1,
+	Robocop 3/1.jpg,
+	Robocop 3/2.jpg,
+	Robocop 3/3.jpg,
+	Robocop 3/4.jpg;
 			
 Rocking Cats, "Atlus", "MMC-3", "1991", "2 in 1",
 	Rockin' Kats/1.jpg",
