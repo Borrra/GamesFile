@@ -1133,12 +1133,6 @@ Ninja Cats, "Tecmo", "MMC-3", "1992", "4 in 1",
 	Ninja Cats (Samurai Pizza Cats)/1.jpg",
 	Ninja Cats (Samurai Pizza Cats)/2.jpg",
 	Ninja Cats (Samurai Pizza Cats)/3.jpg";
-		
-Ninja Rykendnd 3", "Pirate Stuff", "MMC-3", "1991", "1 in 1",
-	Ninja Gaiden 3/3.jpg",
-	Ninja Gaiden 3/1.jpg",
-	Ninja Gaiden 3/2.jpg",
-        1. General/11.jpg;
 			
 Ninja Jajamaru Kun, Jaleco, unknown, 1985, 64 in 1,
 	Ninja Jajamaru Kun/1.jpg,
@@ -1166,10 +1160,10 @@ Ninja Gaiden 2", "Tecmo", "MMC-3", "1990", Claster's Cartrige,
 	Ninja Gaiden 2/3.jpg",
         1. General/3.jpg; 
 			
-Ninja Gaiden 3", "Tecmo", "MMC-3", "1991", "1 in 1",
-	Ninja Gaiden 3/1.jpg",
-	Ninja Gaiden 3/2.jpg",
-	Ninja Gaiden 3/3.jpg",
+Ninja Gaiden 3 (Ninja Rykendnd 3), "Tecmo", "MMC-3", "1991", "1 in 1",
+	Ninja Gaiden 3/1.jpg,
+	Ninja Gaiden 3/2.jpg,
+	Ninja Gaiden 3/3.jpg,
         1. General/11.jpg; 
 			
 Ninja Crusaders, "Sammy", "MMC-3", "1990", Claster's Cartrige,
