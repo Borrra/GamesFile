@@ -241,9 +241,9 @@ Chip and Dale 2, Capcom, MMC-1, 1993, 1 in 1,
  1. General/5.jpg;
 
 Chip and Dale 3, Pirate Stuff, MMC-3, 1992, 1 in 1,
- Chip and Dale 3/3.jpg,
  Chip and Dale 3/1.jpg,
  Chip and Dale 3/2.jpg,
+ Chip and Dale 3/3.jpg,
  1. General/5.jpg,
  1. General/6.jpg,
  1. General/11.jpg;
