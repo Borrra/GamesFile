@@ -182,8 +182,8 @@ Bomber Man, Hudson Soft, NROM, 1987, Multigames,
  1. General/10.jpg;
 
 Bomber Man 2, Hudson Soft, NROM, 1991, Claster's Cartrige,
-	Bomberman 2/1.jpg,
-	Bomberman 2/2.jpg;	
+ Bomberman 2/1.jpg,
+ Bomberman 2/2.jpg;	
                                             
 	// C
 
@@ -516,12 +516,6 @@ Flying Hero, "no name", "UNROM", "1985", 7 in 1,
 Flying Warriors, Culture Brain, unknown, "1991", Claster's Cartrige,
 	Flying Wariors/1.jpg,
 	Flying Wariors/2.jpeg;
-			
-Flash and Batman (Monster in My Pocket), "Pirate Stuff", "MMC-3", "1992", "2 in 1",
- 	Monster In My Pocket/3.jpg",
- 	Lethal Weapon/3.jpg",
- 	Monster In My Pocket/1.jpg",
- 	Monster In My Pocket/2.jpg;
 			
 Fist of the North Star, "Taxan", "UNROM", "1988", "4 in 1",
  Fist of The North Star/1.jpg",
