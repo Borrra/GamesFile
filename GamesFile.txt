@@ -773,7 +773,7 @@ Jurassic Park, "Ocean", "MMC-3", "1993", "1 in 1",
 	Jurassic Park/1.jpg,
 	Jurassic Park/2.jpg,
 	Jurassic Park/3.jpg,
-	Jurassic Park/4.jpg,,
+	Jurassic Park/4.jpg,
 	1. General/6.jpg;
 
 	// K
@@ -1205,7 +1205,7 @@ Nuts & Milk, "Nintendo", "NROM", "1985", Multigames,
 	Nuts & Milk/2.jpg,
 	Nuts & Milk/3.jpg,
 	Nuts & Milk/4.jpg,
-	Super Mario Bross/5.jpg",
+	Nuts & Milk/5.jpg,
 	1. General/9.jpg,
 	1. General/10.jpg;
 
@@ -1244,9 +1244,9 @@ Psy Buster (Metal Mech), "Jaleco", "unknown", "1990", "2 in 1",
 	PsyBuster (Metal Mach or Metal Flame)/3.jpg";
 			
 Panic Restaurant (Cook House), "Taito", "MMC-3", "1992", "2 in 1",
-	Panic Restaurant/1.jpg",
-	Panic Restaurant/2.jpg",
-	Panic Restaurant/3.jpg"; 
+	Panic Restaurant/1.jpg,
+	Panic Restaurant/2.jpg,
+	Panic Restaurant/3.jpg; 
 			
 Pooyan, "Konami", "NROM", "1985", 64 in 1,
 	Pooyan/1.jpg,
@@ -1277,7 +1277,7 @@ Power Blade 1", "Taito", "MMC-3", "1991", "Claster's Cartrige",
 	Power Blade 1/1.jpg",
 	Power Blade 1/2.jpg";
 			
-Power Blade 2", "Taito", "MMC-3", "1992", "2 in 1",
+Power Blade 2, "Taito", "MMC-3", "1992", "2 in 1",
 	Power Blade 2/1.jpg,
 	Power Blade 2/2.jpg,
 	Power Blade 2/3.jpg,
@@ -1530,11 +1530,11 @@ Summer Carnival '92", "Naxat Soft", "MMC-3", "1992", "4 in 1",
 	// T
 			
 Tale Spin, "Capcom", "MMC-1", "1991", "4 in 1",
-	Tale Spin/1.jpg",
-	Tale Spin/2.jpg",
-	Tale Spin/3.jpg",
-	Snake Rattle n Roll/3.jpg",
-	Teenage Mutant Ninja Turtles/3.jpg";
+	Tale Spin/1.jpg,
+	Tale Spin/2.jpg,
+	Tale Spin/3.jpg,
+	Tale Spin/4.jpg,
+	Tale Spin/5.jpg;
 			
 Target Renegade, "Taito", "MMC-1", "1987", Don't have one,
 	Target Renegade/1.jpg, 
@@ -1742,7 +1742,7 @@ Wanpaku Kokkun No Gourmet (Panic Restarant), "Taito", "MMC-3", "1992", 2 in 1,
 	Wanpaku Kokkun No Gourmet (Panic Restarant)/2.jpg,
 	Wanpaku Kokkun No Gourmet (Panic Restarant)/3.jpg,
 	Wanpaku Kokkun No Gourmet (Panic Restarant)/4.jpg,
-	Wanpaku Kokkun No Gourmet (Panic Restarant)/4.jpg;
+	Wanpaku Kokkun No Gourmet (Panic Restarant)/5.jpg;
             
 World Alley Championship, "no name", unknown, "1991", Don't have one,
 	Nigel Mansell's World Championship Challenge/1.jpg,
