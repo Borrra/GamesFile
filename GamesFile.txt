@@ -1109,42 +1109,20 @@ Mitsume Ga Tooru, "Natsume", "MMC-3", "1992", "4 in 1",
 	Mitsusme Ga Tooru/3.jpg";
 			
 Mortal Kombat, "no name", unknown, "1993", Claster's Cartrige,
-	Mortal Kombat/13.jpg,
-	Mortal Kombat/3.jpg,
-	Mortal Kombat/7.jpg,
-	Mortal Kombat/8.jpg,
-	1. General/3.jpg;
-	                        
-Mortal Kombat 2, "no name", unknown, "1993", Claster's Cartrige,
-	Mortal Kombat/13.jpg,
-	Mortal Kombat/2.jpg,
-	Mortal Kombat/9.jpg,
-	Mortal Kombat/10.jpg,
-	1. General/3.jpg; 
-                     
-Mortal Kombat 3, "no name", unknown, "1993", Claster's Cartrige,
-	Mortal Kombat/13.jpg,
 	Mortal Kombat/1.jpg,
+	Mortal Kombat/2.jpg,
 	Mortal Kombat/3.jpg,
-	Mortal Kombat/11.jpg,
-	Mortal Kombat/12.jpg,
-	1. General/3.jpg;
-                      
-Mortal Kombat 4, "no name", unknown, "1993", Claster's Cartrige,
-	Mortal Kombat/13.jpg,
 	Mortal Kombat/4.jpg,
 	Mortal Kombat/5.jpg,
+	Mortal Kombat/6.jpg,
+	Mortal Kombat/7.jpg,
 	Mortal Kombat/8.jpg,
+	Mortal Kombat/9.jpg,
+	Mortal Kombat/10.jpg,
+	Mortal Kombat/11.jpg,
 	Mortal Kombat/12.jpg,
-	1. General/3.jpg;
-                    
-Mortal Kombat Trilogy, "no name", unknown, "1993", Claster's Cartrige,
 	Mortal Kombat/13.jpg,
 	Mortal Kombat/14.jpg,
-	Mortal Kombat/5.jpg,
-	Mortal Kombat/6.jpg,
-	Mortal Kombat/9.jpg,
-	Mortal Kombat/11.jpg,
 	1. General/3.jpg;
                 
 Mr. Gimmick, "SunSoft", "unknown", "1992", Claster's Cartrige,
