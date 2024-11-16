@@ -206,6 +206,10 @@ CastleQuest, Nexoft, CNROM, 1986, 7 in 1,
  Castel Quest/1.jpg,
  Castel Quest/3.jpg;
 
+Castle Excellent, Nexoft, CNROM, 1985, 7 in 1, 
+ Castle Excellent/1.jpg,
+ Castle Excellent/3.jpg;
+
 ClifHanger, SONY ImageSoft, MMC-3, 1991, 2 in 1,
  Cliffhanger/1.jpg,
  Cliffhanger/2.jpg,
@@ -431,12 +435,7 @@ Eliminating Boat Duel, Storm, MMC-1, 1991, 2 in 1,
  	Eliminator Boat Duel/1.jpg,
  	Eliminator Boat Duel/2.jpg,
  	Eliminator Boat Duel/3.jpg;
-			
-Excelent Castle, Nexoft, CNROM, 1985, 7 in 1, 
- 	Castel Quest/1.jpg,
- 	Castel Quest/2.jpg,
- 	Castel Quest/3.jpg;
-			
+		
 "ExciteBike", "Nintendo", "NROM", "1985", "23 in 1",
 	Excite Bike/1.jpg",
 	Excite Bike/2.jpg",
