@@ -57,7 +57,7 @@ Aladdin, Pirate Stuff, AOROM, 1993, 1 in 1,
 Arabian, Atari, NROM, 1982, 64 in 1,
 	Arabian/1.jpg,
  	Arabian/2.jpg,
- 	Adventure Island Classic/3.jpg;    
+ 	Arabian/3.jpg;    
 
 Arkanoid, Taito, NROM, 1987, 64 in 1,
         Arkanoid/1.jpg,
