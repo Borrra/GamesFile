@@ -232,9 +232,9 @@ Chip and Dale 2, Capcom, MMC-1, 1993, 1 in 1,
  1. General/5.jpg;
 
 Chip and Dale 3, Pirate Stuff, MMC-3, 1992, 1 in 1,
- Heavy Barrel/3.jpg,
- Heavy Barrel/1.jpg,
- Heavy Barrel/2.jpg,
+ Chip and Dale 3/3.jpg,
+ Chip and Dale 3/1.jpg,
+ Chip and Dale 3/2.jpg,
  1. General/5.jpg,
  1. General/6.jpg,
  1. General/11.jpg;
@@ -374,7 +374,7 @@ Double Dragon 1, TradeWest, MMC-1, 1988, Claster's Cartrige,
 Double Dragon 2, Acclaim, MMC-3, 1989, 3 in 1,
  Double Dragon 2/1.jpg,
  Double Dragon 2/2.jpg,
- Teenage Mutant Ninja Turtles 2/3.jpg;
+ Double Dragon 2/3.jpg;
 			
 Double Dragon 3, Acclaim, MMC-3, 1990, 3 in 1,
  Double Dragon 3/1.jpg,
@@ -1415,7 +1415,7 @@ Rocking Cats, "Atlus", "MMC-3", "1991", "2 in 1",
 Side Pocket, "Data East", "NROM", "1986", 8 in 1,
 	Side Pocket/1.jpg,
 	Side Pocket/2.jpg,
-	Gun. Smoke/3.jpg";
+	Side Pocket/3.jpg;
 	                           
 Silver Surfer, "Arcadia", "MMC-3", "1990", Don't have one,
 	Silver Surfer/1.jpg,
