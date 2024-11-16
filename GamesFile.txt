@@ -1077,10 +1077,10 @@ Moon Crystal, Hect, unknown, 1992, don't have one,
 	Moon Crystal/5.jpg;
 			
 M.U.S.C.L.E., "Bandai", "NROM", "1986", 64 in 1,
-	M.U.S.C.L.E./1.png,
-	M.U.S.C.L.E./2.png,
-	M.U.S.C.L.E./3.jpg,
-	M.U.S.C.L.E./4.jpg,
+	M.U.S.C.L.E/1.png,
+	M.U.S.C.L.E/2.png,
+	M.U.S.C.L.E/3.jpg,
+	M.U.S.C.L.E/4.jpg,
 	1. General/9.jpg;
 			
 Mitsume Ga Tooru, "Natsume", "MMC-3", "1992", "4 in 1",
