@@ -510,7 +510,7 @@ Flintstones Surprise at Dinosaur Peak, "Taito", "MMC-3", "1993", "4 in 1",
 Flying Hero, "no name", "UNROM", "1985", 7 in 1,
 	Flying Hero/1.jpg, 
 	Flying Hero/2.jpg,
-	Legendary Wings/3.jpg;    
+	Flying Hero/3.jpg;    
                       
 Flying Warriors, Culture Brain, unknown, "1991", Claster's Cartrige,
 	Flying Wariors/1.jpg,
