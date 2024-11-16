@@ -1404,10 +1404,10 @@ Robocop 3, Ocean, MMC-3, 1992, 2 in 1,
 	Robocop 3/4.jpg;
 			
 Rocking Cats, "Atlus", "MMC-3", "1991", "2 in 1",
-	Rockin' Kats/1.jpg",
-	Rockin' Kats/2.jpg",
-	Rockin' Kats/3.jpg",
-	Zen Intergalactic Ninja/3.jpg";
+	Rockin' Kats/1.jpg,
+	Rockin' Kats/2.jpg,
+	Rockin' Kats/3.jpg,
+	Rockin' Kats/4.jpg;
 
 	// S
 			
