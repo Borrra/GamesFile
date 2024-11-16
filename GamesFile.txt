@@ -204,7 +204,6 @@ Capitan America, Data East, MMC-3, 1991, Claster's Cartrige,
 
 CastleQuest, Nexoft, CNROM, 1986, 7 in 1,
  Castel Quest/1.jpg,
- Castel Quest/2.jpg,
  Castel Quest/3.jpg;
 
 ClifHanger, SONY ImageSoft, MMC-3, 1991, 2 in 1,
