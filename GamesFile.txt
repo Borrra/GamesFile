@@ -317,9 +317,9 @@ Darkwing Duck, Capcom, MMC-1, 1992, 3 in 1,
  Darkwin Duck/4.jpg;
 			
 Darkwing Duck 2, Pirate Stuff, MMC-3, 1993, 1 in 1,
- Darkwing Duck 2/3.jpg,
  Darkwing Duck 2/1.jpg,
  Darkwing Duck 2/2.jpg,
+ Darkwing Duck 2/3.jpg,
  1. General/11.jpg;
 			
 Dick Tracy, Bandai, UNROM, 1990, Claster's Cartrige,
