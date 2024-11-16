@@ -982,21 +982,11 @@ Mario is Missing, "Nintendo", "unknown", "1993", Claster's Cartrige,
 Mario's Time Machine, "Nintendo", "unknown", "1994", Claster's Cartrige,
 	Mario's Time Machine/1.jpg,
 	Mario's Time Machine/2.jpg;
-	                
-Mario 6 (Tiny Toon), "Pirate Stuff", "MMC-3", "1993", 4 in 1,
-	Mario 6_14_16_17/1.jpg;
                  
-Mario 14 (Kaiketsu Yanchamaru 3: Taiketsu!), "Pirate Stuff", "MMC-3", "1993" , 4 in 1,
+Mario 6_14_16_17, "Pirate Stuff", "MMC-3", "1993" , 4 in 1,
 	Mario 6_14_16_17/1.jpg,
 	Mario 6_14_16_17/2.jpg,
-	Mario 6_14_16_17/3.jpg;
-                            
-Mario 16 (J&M), "Pirate Stuff", "MMC-3", "1993", 4 in 1,
-	Mario 6_14_16_17/1.jpg;
-                       
-Mario 17 (C&D), "Pirate Stuff", "MMC-1", "1993", 4 in 1, 
-	Mario 6_14_16_17/1.jpg;
-   
+	Mario 6_14_16_17/3.jpg;   
 			
 Mega Man 1, "Capcom", "UNROM", "1988", "Claster's Cartrige",
 	Mega Man/1.jpg",
