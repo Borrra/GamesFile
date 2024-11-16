@@ -420,12 +420,6 @@ Dragon's Layer, Elite, UNROM, 1990, Kinaman was playing,
  	Dragon's Layer/1.jpg,
  	Dragon's Layer/2.png;
 			
-Dream Master (Little Nemo), Pirate Stuff, MMC-3, 1990, 1 in 1,
- 	Little Nemo - The Dream Master/3.jpg,
- 	Little Nemo - The Dream Master/1.jpg,
- 	Little Nemo - The Dream Master/2.jpg,
- 	1. General/11.jpg;
-			
 Dr. Mario, Nintendo, unknown, 1990, Claster's Cartrige,
 	Dr. Mario/1.jpg,
 	Dr. Mario/2.jpg;
