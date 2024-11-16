@@ -707,10 +707,10 @@ Ice Hockey, "Nintendo", "unknown", "1988", Claster's Cartrige,
 	1. General/3.jpg;
 			    
 Ikari Warriors, "SNK", "UNROM", "1986", "4 in 1",
-	Ikari Warriors/1.jpg",
-	Ikari Warriors/2.jpg",
-	Ikari Warriors/3.jpg",
-	Best of the Best/3.jpg";
+	Ikari Warriors/1.jpg,
+	Ikari Warriors/2.jpg,
+	Ikari Warriors/3.jpg,
+	Ikari Warriors/4.jpg;
 		    
 Ikari Warriors 2, "SNK", unknown, "1986", Claster's Cartrige,
 	 Ikari Wariors 2/1.jpg;
