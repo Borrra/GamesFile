@@ -21,8 +21,8 @@ American Race, Absolute, unknown, 1989, 2 in 1,
 Adventure Island 1, Hudson Soft, CNROM, 1986, 64 in 1,
  	Adventure Island Classic/1.jpg,
  	Adventure Island Classic/2.jpg,
-	Adventure Island Classic/4.jpg,
- 	Adventure Island Classic/3.jpg;
+	Adventure Island Classic/3.jpg,
+ 	Adventure Island Classic/4.jpg;
 
 Adventure Island 2, Hudson Soft, MMC-3, 1991, 64 in 1,
  	Adventure Island 2/1.jpg,
@@ -177,8 +177,8 @@ Blues Brothers, Titus, unknown, 1991, 1 in 1,
 Bomber Man, Hudson Soft, NROM, 1987, Multigames,
  Bomberman/1.png,
  Bomberman/2.jpg,
- Bomberman/4.jpg,
  Bomberman/3.jpg,
+ Bomberman/4.jpg,
  1. General/10.jpg;
 
 Bomber Man 2, Hudson Soft, NROM, 1991, Claster's Cartrige,
