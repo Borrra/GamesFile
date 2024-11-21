@@ -126,13 +126,6 @@ Battle City, Namco, NROM, 1985, Multigames,
  	Battle City/4.jpg,
  	Battle City/5.jpg;
 
-Battle Tank, Pirate Stuff, NROM, 1985, Multigames,
- 	Battle City/1.jpg,
-	Battle City/2.jpg,
- 	Battle City/3.jpg,
- 	Battle City/4.jpg,
- 	Battle City/5.jpg;
-
 Battle Toads, Rare, AOROM, 1991, 3 in 1,
  	BattleToads/1.jpg,
  	BattleToads/2.jpg,
@@ -252,13 +245,7 @@ Circus Charlie, Konami, NROM, 1985, 64 in 1,
  Circus Charli/1.jpg,
  Circus Charli/2.jpg,
  Circus Charli/3.jpg,
-        1. General/10.jpg;
-	
-Circus Troupe, Konami, NROM, 1985, 64 in 1,
- Circus Charli/1.jpg,
- Circus Charli/2.jpg,
- Circus Charli/3.jpg,
-        1. General/10.jpg;
+ 1. General/10.jpg;
 
 City Connection, Jaleco, NROM, 1986, 64 in 1,
  City Connection/1.jpg,
