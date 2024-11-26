@@ -749,6 +749,9 @@ Jurassic Park, "Ocean", "MMC-3", "1993", "1 in 1",
 	Jurassic Park/2.jpg,
 	Jurassic Park/3.jpg,
 	Jurassic Park/4.jpg,
+	Jurassic Park/5.jpg,
+	Jurassic Park/6.jpg,
+	Jurassic Park/7.jpg,
 	1. General/6.jpg;
 
 	// K
