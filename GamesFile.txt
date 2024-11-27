@@ -84,7 +84,10 @@ Astyanax, Jaleco, MMC-3, 1990, 4 in 1,
 Banana Prince, Takara, MMC-3, 1992, 2 in 1,
  	Banana Prince/1.jpg,
  	Banana Prince/2.jpg,
- 	Banana Prince/3.jpg;
+	Banana Prince/3.jpg
+	Banana Prince/4.jpg
+	Banana Prince/5.jpg
+ 	Banana Prince/6.jpg;
 
 Bucky O'Hare,  Konami, MMC-3, 1991, Claster's Cartrige,
  	Bucky O'Hare/1.jpg,
