@@ -1273,10 +1273,15 @@ Prince of Persia, "Virgin", "UNROM", "1989", "4 in 1",
 	Prince of Persia/3.jpg",
 	Prince of Persia/4.jpg";
 			
-The Punisher, "Ljn", "MMC-3", "1990", "2 in 1",
-	The Punisher/1.jpg",
-	The Punisher/2.jpg",
-	The Punisher/3.jpg"; 
+The Punisher, Ljn, MMC-3, 1990, 2 in 1,
+	The Punisher/1.jpg,
+	The Punisher/2.jpg,
+	The Punisher/3.jpg,
+	The Punisher/4.jpg,
+	The Punisher/5.jpg,
+	The Punisher/6.jpg,
+	The Punisher/7.jpg,
+	The Punisher/8.jpg; 
 			
 Pockemon Blue Version (Wacky Race huck), Pirate Stuff, unknown, "1993", 1 in 1,
 	Pockemon Blue Version/1.jpg,
