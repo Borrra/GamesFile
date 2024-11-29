@@ -671,10 +671,17 @@ Home Alone 2, "Toy Headquarters", "MMC-3", "1991", "2 in 1",
 	Home Alone 2/4.jpg,
 	Home Alone 2/5.jpg;
 		    
-Hunt for The Red October, "Hi Tech Expressions", "MMC-3", "1990", "2 in 1",
-	The Hunt for Red October/1.jpg",
-	The Hunt for Red October/2.jpg",
-	The Hunt for Red October/3.jpg";
+Hunt for The Red October, Hi Tech Expressions, MMC-3, 1990, 2 in 1,
+	The Hunt for Red October/1.jpg,
+	The Hunt for Red October/2.jpg,
+	The Hunt for Red October/3.jpg,
+	The Hunt for Red October/4.jpg,
+	The Hunt for Red October/5.jpg,
+	The Hunt for Red October/6.jpg,
+	The Hunt for Red October/7.jpg,
+	The Hunt for Red October/8.jpg,
+	The Hunt for Red October/9.jpg,
+	The Hunt for Red October/10.jpg;
 
 	// I
 		    
