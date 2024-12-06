@@ -1614,10 +1614,15 @@ Tiger-Heli, "Acclaim", "CNROM", "1987", Claster's Cartrige,
 	Tiger Heli/4.jpg,
 	1. General/3.jpg;
 			
-Tom and Jerry", "Hi Tech Expressions", "MMC-3", "1991", "1 in 1",
-	Tom and Jerry/1.jpg",
-	Tom and Jerry/2.jpg",
-	Tom and Jerry/3.jpg";
+Tom and Jerry, Hi Tech Expressions, MMC-3, 1991, 1 in 1,
+	Tom and Jerry/1.jpg,
+	Tom and Jerry/2.jpg,
+	Tom and Jerry/3.jpg,
+	Tom and Jerry/4.jpg,
+	Tom and Jerry/5.jpg,
+	Tom and Jerry/6.jpg,
+	Tom and Jerry/7.jpg,
+	Tom and Jerry/8.jpg;
 			
 Top Gun 1, "Konami", unknown, "1987", 2 in 1,
 	Top Gun/1.jpg,
