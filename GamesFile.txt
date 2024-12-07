@@ -393,14 +393,21 @@ Duck Hunt, Nintendo, NROM, 1985, 1 in 1,
 Duck Tales 1, Capcom, UNROM, 1989, 4 in 1,
  	Duck Tales/1.jpg,
  	Duck Tales/2.jpg,
- 	Duck Tales/3.jpg;
+	Duck Tales/3.jpg,
+	Duck Tales/4.jpg,
+	Duck Tales/5.jpg,
+ 	Duck Tales/6.jpg;
 			
 Duck Tales 2, Capcom, UNROM, 1993, 4 in 1,
  	Duck Tales 2/1.jpg,
  	Duck Tales 2/2.jpg,
  	Duck Tales 2/3.jpg,
  	Duck Tales 2/4.jpg,
- 	Duck Tales 2/5.jpg;
+	Duck Tales 2/5.jpg,
+	Duck Tales 2/6.jpg,
+	Duck Tales 2/7.jpg,
+	Duck Tales 2/8.jpg,
+ 	Duck Tales 2/9.jpg;
 			
 Dracula (Bram Stoker's), SONY ImageSoft, MMC-3, 1992, Claster's Cartrige,
 	Dracula/1.jpg,
