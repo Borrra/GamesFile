@@ -756,10 +756,14 @@ Joe and Mac, "Data East", "MMC-3", "1992", "2 in 1",
 	Joe & Mag/2.jpg",
 	Joe & Mag/3.jpg";
 			
-Jungle Book, "Virgin", "MMC-3", "1994", "2 in 1",
-	The Jungle Book/1.jpg",
-	The Jungle Book/2.jpg",
-	The Jungle Book/3.jpg";
+Jungle Book, Virgin, MMC-3, 1994, 2 in 1,
+	The Jungle Book/1.jpg,
+	The Jungle Book/2.jpg,
+	The Jungle Book/3.jpg,
+	The Jungle Book/4.jpg,
+	The Jungle Book/5.jpg,
+	The Jungle Book/6.jpg,
+	The Jungle Book/7.jpg;
 			
 Jurassic Park, "Ocean", "MMC-3", "1993", "1 in 1",
 	Jurassic Park/1.jpg,
@@ -769,6 +773,8 @@ Jurassic Park, "Ocean", "MMC-3", "1993", "1 in 1",
 	Jurassic Park/5.jpg,
 	Jurassic Park/6.jpg,
 	Jurassic Park/7.jpg,
+	Jurassic Park/8.jpg,
+	Jurassic Park/9.jpg,
 	1. General/6.jpg;
 
 	// K
@@ -1393,10 +1399,16 @@ ShatterHand, "Jaleco", "MMC-3", "1991", "Claster's Cartrige",
 	Shatter Hand (Tokkyuu Shireia Solbrain)/1.jpg",
 	Shatter Hand (Tokkyuu Shireia Solbrain)/2.jpg"; 
 			
-The Simpsons VS Space Mutants, "Acclaim", "MMC-1", "1990", "1 in 1",
-	The Simpsons  - Bart vs The Space Mutants/1.jpg",
-	The Simpsons  - Bart vs The Space Mutants/2.jpg",
-	The Simpsons  - Bart vs The Space Mutants/3.jpg";
+The Simpsons VS Space Mutants, Acclaim, MMC-1, 1990, 1 in 1,
+	The Simpsons  - Bart vs The Space Mutants/1.jpg,
+	The Simpsons  - Bart vs The Space Mutants/2.jpg,
+	The Simpsons  - Bart vs The Space Mutants/3.jpg,
+	The Simpsons  - Bart vs The Space Mutants/4.jpg,
+	The Simpsons  - Bart vs The Space Mutants/5.jpg,
+	The Simpsons  - Bart vs The Space Mutants/6.jpg,
+	The Simpsons  - Bart vs The Space Mutants/7.jpg,
+	The Simpsons  - Bart vs The Space Mutants/8.jpg,
+	The Simpsons  - Bart vs The Space Mutants/9.jpg;
 			
 The Simpsons VS The World, "Acclaim", "MMC-3", "1991", Claster's Cartrige,
 	The Simpsons - Bart vs The World/1.jpg,
