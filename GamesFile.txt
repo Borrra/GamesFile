@@ -1266,7 +1266,12 @@ Power Blade 2, "Taito", "MMC-3", "1992", "2 in 1",
 	Power Blade 2/1.jpg,
 	Power Blade 2/2.jpg,
 	Power Blade 2/3.jpg,
-	Power Blade 2/4.jpg;
+	Power Blade 2/4.jpg,
+	Power Blade 2/5.jpg,
+	Power Blade 2/6.jpg,
+	Power Blade 2/7.jpg,
+	Power Blade 2/8.jpg,
+	Power Blade 2/9.jpg;
 			
 Power Blazer, "Taito", "MMC-3", "1992", Claster's Cartrige,
 	Power Blazer/1.jpg,
