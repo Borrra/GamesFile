@@ -1605,10 +1605,18 @@ Terminator", "Mindscape", "MMC-3", "1992", "Claster's Cartirge",
 	Terminator/1.jpg",
 	Terminator/2.jpg";
 			
-Terminator 2", "Ljn", "MMC-3", "1991", "2 in 1",
-	Terminator 2/1.jpg",
-	Terminator 2/2.jpg",
-	Terminator 2/3.jpg"; 
+Terminator 2, Ljn, MMC-3, 1991, 2 in 1,
+	Terminator 2/1.jpg,
+	Terminator 2/2.jpg,
+	Terminator 2/3.jpg,
+	Terminator 2/4.jpg,
+	Terminator 2/5.jpg,
+	Terminator 2/6.jpg,
+	Terminator 2/7.jpg,
+	Terminator 2/8.jpg,
+	Terminator 2/9.jpg,
+	Terminator 2/10.jpg,
+	Terminator 2/11.jpg; 
 			
 Tetris Tangen", "Tengen", "CNROM", "1988", "1 in 1",
 	Tetris Tengen/1.jpg",
