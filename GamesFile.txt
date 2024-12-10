@@ -1387,7 +1387,15 @@ Robocop 3, Ocean, MMC-3, 1992, 2 in 1,
 	Robocop 3/1.jpg,
 	Robocop 3/2.jpg,
 	Robocop 3/3.jpg,
-	Robocop 3/4.jpg;
+	Robocop 3/4.jpg,
+	Robocop 3/5.jpg,
+	Robocop 3/6.jpg,
+	Robocop 3/7.jpg,
+	Robocop 3/8.jpg,
+	Robocop 3/9.jpg,
+	Robocop 3/10.jpg,
+	Robocop 3/11.jpg,
+	Robocop 3/12.jpg;
 			
 Rocking Cats, "Atlus", "MMC-3", "1991", "2 in 1",
 	Rockin' Kats/1.jpg,
