@@ -671,12 +671,19 @@ Home Alone 1, "Toy Headquarters", "MMC-3", "1991", "Claster's Cartrige",
 	Home Alone/1.jpg",
 	Home Alone/2.jpg";
 		    
-Home Alone 2, "Toy Headquarters", "MMC-3", "1991", "2 in 1",
+Home Alone 2, Toy Headquarters, MMC-3, 1991, 2 in 1,
 	Home Alone 2/1.jpg,
 	Home Alone 2/2.jpg,
 	Home Alone 2/3.jpg,
 	Home Alone 2/4.jpg,
-	Home Alone 2/5.jpg;
+	Home Alone 2/5.jpg,
+	Home Alone 2/6.jpg,
+	Home Alone 2/7.jpg,
+	Home Alone 2/8.jpg,
+	Home Alone 2/9.jpg,
+	Home Alone 2/10.jpg,
+	Home Alone 2/11.jpg,
+	Home Alone 2/12.jpg;
 		    
 Hunt for The Red October, Hi Tech Expressions, MMC-3, 1990, 2 in 1,
 	The Hunt for Red October/1.jpg,
