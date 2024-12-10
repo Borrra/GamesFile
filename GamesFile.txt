@@ -751,10 +751,14 @@ James Bond Junior, "Toy Headquarters", "MMC-3", "1991", "Claster's Cartrige",
 	James Bond Jr/1.jpg",
 	James Bond Jr/2.jpg";
 			
-Joe and Mac, "Data East", "MMC-3", "1992", "2 in 1",
-	Joe & Mag/1.jpg",
-	Joe & Mag/2.jpg",
-	Joe & Mag/3.jpg";
+Joe and Mac, Data East, MMC-3, 1992, 2 in 1,
+	Joe & Mag/1.jpg,
+	Joe & Mag/2.jpg,
+	Joe & Mag/3.jpg,
+	Joe & Mag/4.jpg,
+	Joe & Mag/5.jpg,
+	Joe & Mag/6.jpg,
+	Joe & Mag/7.jpg;
 			
 Jungle Book, Virgin, MMC-3, 1994, 2 in 1,
 	The Jungle Book/1.jpg,
