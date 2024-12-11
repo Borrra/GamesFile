@@ -584,11 +584,19 @@ Ghostbusters, "Activision", "CNROM", "1984", "7 in 1",
 	GhostBusters/3.jpg",
         1. General/8.jpg;   
 			
-Ghostbusters 3  (2), "Activision", "MMC-1", "1989", "2 in 1",
-	GhostBusters 2/1.jpg",
-	GhostBusters 2/2.jpg",
-	GhostBusters 2/3.jpg",
+Ghostbusters 3  (2), Activision, MMC-1, 1989, 2 in 1,
+	GhostBusters 2/1.jpg,
+	GhostBusters 2/2.jpg,
+	GhostBusters 2/3.jpg,
         GhostBusters 2/4.jpg,
+	GhostBusters 2/5.jpg,
+	GhostBusters 2/6.jpg,
+	GhostBusters 2/7.jpg,
+	GhostBusters 2/8.jpg,
+	GhostBusters 2/9.jpg,
+	GhostBusters 2/10.jpg,
+	GhostBusters 2/11.jpg,
+	GhostBusters 2/12.jpg,
         1. General/8.jpg;  
 			                             
 Go! Dizzy! Go!, "Code Masters", "unknown", "1992", Claster's Cartrige,
