@@ -1247,10 +1247,14 @@ Psy Buster (Metal Mech), "Jaleco", "unknown", "1990", "2 in 1",
 	PsyBuster (Metal Mach or Metal Flame)/2.jpg",
 	PsyBuster (Metal Mach or Metal Flame)/3.jpg";
 			
-Panic Restaurant (Cook House), "Taito", "MMC-3", "1992", "2 in 1",
+Panic Restaurant (Cook House), Taito, MMC-3, 1992, 2 in 1,
 	Panic Restaurant/1.jpg,
 	Panic Restaurant/2.jpg,
-	Panic Restaurant/3.jpg; 
+	Panic Restaurant/3.jpg,
+	Panic Restaurant/4.jpg,
+	Panic Restaurant/5.jpg,
+	Panic Restaurant/6.jpg,
+	Panic Restaurant/7.jpg; 
 			
 Pooyan, "Konami", "NROM", "1985", 64 in 1,
 	Pooyan/1.jpg,
