@@ -259,7 +259,11 @@ Cobra Command (Urban Strike), Data East, MMC-1, 1988, 2 in 1,
  Urban Strike (Cobra Command)/1.jpg,
  Urban Strike (Cobra Command)/2.jpg,
  Urban Strike (Cobra Command)/3.jpg,
- Urban Strike (Cobra Command)/4.jpg;
+ Urban Strike (Cobra Command)/4.jpg,
+ Urban Strike (Cobra Command)/5.jpg,
+ Urban Strike (Cobra Command)/6.jpg,
+ Urban Strike (Cobra Command)/7.jpg,
+ Urban Strike (Cobra Command)/8.jpg;
 
 Cross Fire, Kyugo, MMC-3, 1990, Claster's Cartrige,
 	Cross Fire/1.jpg,
