@@ -437,7 +437,13 @@ Dr. Mario, Nintendo, unknown, 1990, Claster's Cartrige,
 Eliminating Boat Duel, Storm, MMC-1, 1991, 2 in 1,
  	Eliminator Boat Duel/1.jpg,
  	Eliminator Boat Duel/2.jpg,
- 	Eliminator Boat Duel/3.jpg;
+	Eliminator Boat Duel/3.jpg,
+	Eliminator Boat Duel/4.jpg,
+	Eliminator Boat Duel/5.jpg,
+	Eliminator Boat Duel/6.jpg,
+	Eliminator Boat Duel/7.jpg,
+	Eliminator Boat Duel/8.jpg,
+ 	Eliminator Boat Duel/9.jpg;
 		
 "ExciteBike", "Nintendo", "NROM", "1985", "23 in 1",
 	Excite Bike/1.jpg",
