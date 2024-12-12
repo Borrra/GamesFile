@@ -309,7 +309,14 @@ Darkwing Duck, Capcom, MMC-1, 1992, 3 in 1,
  Darkwing Duck/1.jpg,
  Darkwing Duck/2.jpg,
  Darkwing Duck/3.jpg,
- Darkwing Duck/4.jpg;
+ Darkwing Duck/4.jpg,
+ Darkwing Duck/5.jpg,
+ Darkwing Duck/6.jpg,
+ Darkwing Duck/7.jpg,
+ Darkwing Duck/8.jpg,
+ Darkwing Duck/9.jpg,
+ Darkwing Duck/10.jpg,
+ Darkwing Duck/11.jpg;
 			
 Darkwing Duck 2, Pirate Stuff, MMC-3, 1993, 1 in 1,
  Darkwing Duck 2/1.jpg,
