@@ -403,7 +403,12 @@ Duck Hunt, Nintendo, NROM, 1985, 1 in 1,
  Duck Hunt/1.jpg,
  Duck Hunt/2.jpg,
  Duck Hunt/3.jpg,
-        1. General/10.jpg;
+ Duck Hunt/4.jpg,
+ Duck Hunt/5.jpg,
+ Duck Hunt/6.jpg,
+ Duck Hunt/7.jpg,
+ Duck Hunt/8.jpg,
+ 1. General/10.jpg;
 				
 Duck Tales 1, Capcom, UNROM, 1989, 4 in 1,
  	Duck Tales/1.jpg,
