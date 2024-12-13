@@ -498,7 +498,10 @@ Felix The Cat, Hudson Soft, MMC-3, 1992, 1 in 1,
  	Felix The Cat/1.png,
  	Felix The Cat/2.png,
  	Felix The Cat/3.jpg, 
- 	Felix The Cat/4.jpg;
+ 	Felix The Cat/4.jpg,
+	Felix The Cat/5.jpg,
+	Felix The Cat/6.jpg,
+ 	Felix The Cat/7.jpg;
 			
 Felix The Cat by Dragon Co", "Dragon Co", unknown, "1992", Claster's Cartrige,
 	Felix by Dragon/1.jpg,
