@@ -1124,11 +1124,16 @@ Mission Impossible, "Ultra", "MMC-3", "1990", "Claster's Cartrige",
 	Mission Impossible/1.jpg",
 	Mission Impossible/2.jpg";
 			
-Monster in My Pocket, "Konami", "MMC-3", "1992", "2 in 1",
+Monster in My Pocket, Konami, MMC-3, 1992, 2 in 1,
 	Monster In My Pocket/1.jpg,
 	Monster In My Pocket/2.jpg,
 	Monster In My Pocket/3.jpg,
-	Monster In My Pocket/4.jpg;
+	Monster In My Pocket/4.jpg,
+	Monster In My Pocket/5.jpg,
+	Monster In My Pocket/6.jpg,
+	Monster In My Pocket/7.jpg,
+	Monster In My Pocket/8.jpg,
+	Monster In My Pocket/9.jpg;
 
 Moon Crystal, Hect, unknown, 1992, don't have one,
 	Moon Crystal/1.jpg,
