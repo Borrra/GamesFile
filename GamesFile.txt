@@ -1598,12 +1598,16 @@ Summer Carnival '92", "Naxat Soft", "MMC-3", "1992", "4 in 1",
 
 	// T
 			
-Tale Spin, "Capcom", "MMC-1", "1991", "4 in 1",
+Tale Spin, Capcom, MMC-1, 1991, 4 in 1,
 	Tale Spin/1.jpg,
 	Tale Spin/2.jpg,
 	Tale Spin/3.jpg,
 	Tale Spin/4.jpg,
-	Tale Spin/5.jpg;
+	Tale Spin/5.jpg,
+	Tale Spin/6.jpg,
+	Tale Spin/7.jpg,
+	Tale Spin/8.jpg,
+	Tale Spin/9.jpg;
 			
 Target Renegade, "Taito", "MMC-1", "1987", Don't have one,
 	Target Renegade/1.jpg, 
