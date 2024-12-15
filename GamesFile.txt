@@ -1867,10 +1867,15 @@ X-Men, "Ljn", "MMC-3", "1989", "4 in 1",
 
 	// Y
 			
-Yo! Noid, "Capcom", "MMC-1", "1990", "4 in 1",
-	Yo! Noid/1.png",
-	Yo! Noid/2.jpg",
-	Yo! Noid/3.jpg";
+Yo! Noid, Capcom, MMC-1, 1990, 4 in 1,
+	Yo! Noid/1.png,
+	Yo! Noid/2.jpg,
+	Yo! Noid/3.jpg,
+	Yo! Noid/4.jpg,
+	Yo! Noid/5.jpg,
+	Yo! Noid/6.jpg,
+	Yo! Noid/7.jpg,
+	Yo! Noid/8.jpg;
 			
 Yie Ar Kung-Fu", "Konami", "NROM", "1985", "Multigames",
  	Yie Ar Kung-Fu/1.jpg",
