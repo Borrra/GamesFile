@@ -1792,10 +1792,14 @@ Treasure Master, "ASC", "MMC-1", "1991", Claster's Cartrige,
 	Treasure Master/3.jpg,
 	1. General/3.jpg;
 			
-Twin Eagle", "Romstar", "UNROM", "1989", "4 in 1",
-	Twin Eagle/1.jpg",
-	Twin Eagle/2.jpg",
-	Twin Eagle/3.jpg";
+Twin Eagle, Romstar, UNROM, 1989, 4 in 1,
+	Twin Eagle/1.jpg,
+	Twin Eagle/2.jpg,
+	Twin Eagle/3.jpg,
+	Twin Eagle/4.jpg,
+	Twin Eagle/5.jpg,
+	Twin Eagle/6.jpg,
+	Twin Eagle/7.jpg;
 			
 Twin Bee", "Konami", "CNROM", "1985", "64 in 1",
 	Twin Bee/1.jpg",
