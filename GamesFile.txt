@@ -1149,10 +1149,15 @@ M.U.S.C.L.E., "Bandai", "NROM", "1986", 64 in 1,
 	M.U.S.C.L.E/4.jpg,
 	1. General/9.jpg;
 			
-Mitsume Ga Tooru, "Natsume", "MMC-3", "1992", "4 in 1",
-	Mitsusme Ga Tooru/1.jpg",
-	Mitsusme Ga Tooru/2.jpg",
-	Mitsusme Ga Tooru/3.jpg";
+Mitsume Ga Tooru, Natsume, MMC-3, 1992, 4 in 1,
+	Mitsusme Ga Tooru/1.jpg,
+	Mitsusme Ga Tooru/2.jpg,
+	Mitsusme Ga Tooru/3.jpg,
+	Mitsusme Ga Tooru/4.jpg,
+	Mitsusme Ga Tooru/5.jpg,
+	Mitsusme Ga Tooru/6.jpg,
+	Mitsusme Ga Tooru/7.jpg,
+	Mitsusme Ga Tooru/8.jpg;
 			
 Mortal Kombat, "no name", unknown, "1993", Claster's Cartrige,
 	Mortal Kombat/1.jpg,
