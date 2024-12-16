@@ -1635,10 +1635,15 @@ The Legend of Kage, "Taito", "unknown", "1987", "64 in 1",
 	The Legend of Kage/2.jpg",
 	The Legend of Kage/3.jpg";
 			
-TMNT, "Ultra", "MMC-1", "1989", "4 in 1",
-	Teenage Mutant Ninja Turtles/1.jpg",
-	Teenage Mutant Ninja Turtles/2.jpg",
-	Teenage Mutant Ninja Turtles/3.jpg",
+TMNT, Ultra, MMC-1, 1989, 4 in 1,
+	Teenage Mutant Ninja Turtles/1.jpg,
+	Teenage Mutant Ninja Turtles/2.jpg,
+	Teenage Mutant Ninja Turtles/3.jpg,
+	Teenage Mutant Ninja Turtles/4.jpg,
+	Teenage Mutant Ninja Turtles/5.jpg,
+	Teenage Mutant Ninja Turtles/6.jpg,
+	Teenage Mutant Ninja Turtles/7.jpg,
+	Teenage Mutant Ninja Turtles/8.jpg,
         1. General/7.jpg; 
 			
 TMNT 2, "Ultra", "MMC-3", "1990", "3 in 1",
