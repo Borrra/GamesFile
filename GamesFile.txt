@@ -1562,7 +1562,8 @@ Super Spy Hunter, SunSoft, MMC-3, 1992, 2 in 1,
 	Super Spy Hunter/3.jpg,
 	Super Spy Hunter/4.jpg,
 	Super Spy Hunter/5.jpg,
-	Super Spy Hunter/6.jpg; 
+	Super Spy Hunter/6.jpg,
+	Super Spy Hunter/7.jpg;
 			
 Super Robin Hood, "Code Masters", "UNROM", "1991", Claster's Cartrige,
 	Super Robin Hood/1.jpg,
