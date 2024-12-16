@@ -1709,11 +1709,16 @@ Tetris Nintendo", "Nintendo", "NROM", "1987", "Claster's Cartrige",
 	Tetris NES/1.jpg",
 	Tetris NES/2.jpg";
 			
-Tiny Toon Adventures 1", "Konami", "MMC-3", "1991", "4 in 1",
-	Tiny Toon Adventures/1.jpg",
-	Tiny Toon Adventures/2.jpg",
-	Tiny Toon Adventures/3.jpg",
-	Tiny Toon Adventures/4.jpg";   
+Tiny Toon Adventures 1, Konami, MMC-3, 1991, 4 in 1,
+	Tiny Toon Adventures/1.jpg,
+	Tiny Toon Adventures/2.jpg,
+	Tiny Toon Adventures/3.jpg,
+	Tiny Toon Adventures/4.jpg,
+	Tiny Toon Adventures/5.jpg,
+	Tiny Toon Adventures/6.jpg,
+	Tiny Toon Adventures/7.jpg,
+	Tiny Toon Adventures/8.jpg,
+	Tiny Toon Adventures/9.jpg;   
 			
 Tiny Toon Adventures 2, "Konami", "MMC-3", "1992", Claster's Cartrige,
 	Tiny Toon Adventures 2/1.jpg,
