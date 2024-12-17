@@ -1857,8 +1857,7 @@ Wacky Races, Atlus, MMC-3, 1992, 4 in 1,
 	Wracky Races/5.jpg,
 	Wracky Races/6.jpg,
 	Wracky Races/7.jpg,
-	Wracky Races/8.jpg,
-	Wracky Races/9.jpg;
+	Wracky Races/8.jpg;
 			
 Wanpaku Kokkun No Gourmet (Panic Restarant), "Taito", "MMC-3", "1992", 2 in 1,
 	Wanpaku Kokkun No Gourmet (Panic Restarant)/1.jpg,
