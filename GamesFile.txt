@@ -1115,8 +1115,9 @@ Mighty Final Fight, Capcom, MMC-3, 1993, 2 in 1,
 	Mighty Final Fight/6.jpg,
 	Mighty Final Fight/7.jpg,
 	Mighty Final Fight/8.jpg,
-	Mighty Final Fight/9.jpg;
-			
+	Mighty Final Fight/9.jpg,
+	Mighty Final Fight/10.jpg;
+
 Micro Machines, Code Masters, UNROM, "1993", Claster's Cartrige, 
 	Micro Machines/1.jpg,
 	Micro Machines/2.jpg,
