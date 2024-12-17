@@ -736,10 +736,13 @@ Hunt for The Red October, Hi Tech Expressions, MMC-3, 1990, 2 in 1,
 
 	// I
 		    
-Ice Clumber, "Nintendo", "NROM", "1985", "Multigame",
-	Ice Clamber/1.jpeg",
-	Ice Clamber/2.jpg",
-	Ice Clamber/3.jpg",
+Ice Clumber, Nintendo, NROM, 1985, Multigame,
+	Ice Clamber/1.jpeg,
+	Ice Clamber/2.jpg,
+	Ice Clamber/3.jpg,
+	Ice Clamber/4.jpg,
+	Ice Clamber/5.jpg,
+	Ice Clamber/6.jpg,
         1. General/10.jpg;
 		    
 Ice Hockey, "Nintendo", "unknown", "1988", Claster's Cartrige,
