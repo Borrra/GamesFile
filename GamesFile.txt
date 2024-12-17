@@ -1849,11 +1849,16 @@ U-Four-ia The Saga (Hebereke), "SunSoft", "MMC-3", "1991", "Claster's Cartrige",
 
 	// W
 			
-Wacky Races, "Atlus", "MMC-3", "1992", "4 in 1",
-	Wracky Races/1.png",
-	Wracky Races/2.jpg",
-	Wracky Races/3.jpg",
-	Wracky Races/4.jpg";
+Wacky Races, Atlus, MMC-3, 1992, 4 in 1,
+	Wracky Races/1.png,
+	Wracky Races/2.jpg,
+	Wracky Races/3.jpg,
+	Wracky Races/4.jpg,
+	Wracky Races/5.jpg,
+	Wracky Races/6.jpg,
+	Wracky Races/7.jpg,
+	Wracky Races/8.jpg,
+	Wracky Races/9.jpg;
 			
 Wanpaku Kokkun No Gourmet (Panic Restarant), "Taito", "MMC-3", "1992", 2 in 1,
 	Wanpaku Kokkun No Gourmet (Panic Restarant)/1.jpg,
