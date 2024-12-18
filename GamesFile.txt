@@ -782,11 +782,17 @@ The Young Indiana Jones, "Jaleco", "MMC-3", "1992", "Claster's Cartrige",
 	Indiana Jones The young chronicals/1.png",
 	Indiana Jones The young chronicals/2.png;
 		    		    
-Jackal, "Konami", "UNROM", "1988", "2 in 1",
+Jackal, Konami, UNROM, 1988, 2 in 1,
 	Jackal/1.png,
 	Jackal/2.jpg,
 	Jackal/3.jpg,
-	Jackal/4.jpg;
+	Jackal/4.jpg,
+	Jackal/5.jpg,
+	Jackal/6.jpg,
+	Jackal/7.jpg,
+	Jackal/8.jpg,
+	Jackal/9.jpg,
+	Jackal/10.jpg;
 			
 Jackie Chan's Act Kung Fu, "Hudson Soft", "unknown", "1990", "Claster's Cartrige",
 	Jackie Chan's Action Kung Fu/1.jpg,
