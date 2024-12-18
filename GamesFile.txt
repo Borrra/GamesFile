@@ -1373,11 +1373,15 @@ Probotector 2, "Konami", "MMC-3", "1992", "Claster's Cartrige",
 	Probotector 2/1.jpg",
 	Probotector 2/2.jpg";
 			
-Prince of Persia, "Virgin", "UNROM", "1989", "4 in 1",
-	Prince of Persia/1.jpg",
-	Prince of Persia/2.jpg",
-	Prince of Persia/3.jpg",
-	Prince of Persia/4.jpg";
+Prince of Persia, Virgin, UNROM, 1989, 4 in 1,
+	Prince of Persia/1.jpg,
+	Prince of Persia/2.jpg,
+	Prince of Persia/3.jpg,
+	Prince of Persia/4.jpg,
+	Prince of Persia/5.jpg,
+	Prince of Persia/6.jpg,
+	Prince of Persia/7.jpg,
+	Prince of Persia/8.jpg;
 			
 The Punisher, Ljn, MMC-3, 1990, 2 in 1,
 	The Punisher/1.jpg,
