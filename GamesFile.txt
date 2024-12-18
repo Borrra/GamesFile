@@ -929,10 +929,13 @@ The Little Mermaid, "Capcom", "UNROM", "1991", "4 in 1",
 	Mermaid/4.jpg,
 	Mermaid/5.jpg;
 			
-Lode Runner 1, "Hudson Soft", "NROM", "1984", "1 in 1",
-	Lode Runner/1.jpg",
-	Lode Runner/2.jpg",
-	Lode Runner/3.jpg",
+Lode Runner 1, Hudson Soft, NROM, 1984, 1 in 1,
+	Lode Runner/1.jpg,
+	Lode Runner/2.jpg,
+	Lode Runner/3.jpg,
+	Lode Runner/4.jpg,
+	Lode Runner/5.jpg,
+	Lode Runner/6.jpg,
         1. General/10.jpg;
 			
 Lode Runner 2, "Hudson Soft", "NROM", "1984", Claster's Cartrige,
