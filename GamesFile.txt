@@ -132,7 +132,16 @@ Battle City, Namco, NROM, 1985, Multigames,
 Battle Toads, Rare, AOROM, 1991, 3 in 1,
  	BattleToads/1.jpg,
  	BattleToads/2.jpg,
- 	BattleToads/3.jpg; 
+	BattleToads/3.jpg,
+	BattleToads/4.jpg,
+	BattleToads/5.jpg,
+	BattleToads/6.jpg,
+	BattleToads/7.jpg,
+	BattleToads/8.jpg,
+	BattleToads/9.jpg,
+	BattleToads/10.jpg,
+	BattleToads/11.jpg,
+ 	BattleToads/12.jpg; 
 
 Battle Toads and Double Dragon, Rare, AOROM, 1993, 3 in 1,
  BattleToads & Double Dragon/1.jpg,
