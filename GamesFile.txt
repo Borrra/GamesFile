@@ -144,9 +144,15 @@ Battle Toads, Rare, AOROM, 1991, 3 in 1,
  	BattleToads/12.jpg; 
 
 Battle Toads and Double Dragon, Rare, AOROM, 1993, 3 in 1,
- BattleToads & Double Dragon/1.jpg,
- BattleToads & Double Dragon/2.jpg,
- BattleToads & Double Dragon/3.jpg;
+ 	BattleToads & Double Dragon/1.jpg,
+	BattleToads & Double Dragon/2.jpg,
+	BattleToads & Double Dragon/3.jpg,
+	BattleToads & Double Dragon/4.jpg,
+	BattleToads & Double Dragon/5.jpg,
+	BattleToads & Double Dragon/6.jpg,
+	BattleToads & Double Dragon/7.jpg,
+	BattleToads & Double Dragon/8.jpg,
+	BattleToads & Double Dragon/9.jpg;
 
 Balloon Fight, Nintendo, NROM, 1984, 64 in 1,
  Balloon Fight/1.png,
