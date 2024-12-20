@@ -913,10 +913,14 @@ The Legend of Zelda, "Nintendo", "MMC-1", "1986", "Claster's Cartrige",
 	The Legend of Zelda/1.jpg",
 	The Legend of Zelda/2.jpg";
 			
-Legendary Wings, "Capcom", "UNROM", "1988", "8 in 1",
-	Legendary Wings/1.jpg",
-	Legendary Wings/2.jpg",
-	Legendary Wings/3.jpg";
+Legendary Wings, Capcom, UNROM, 1988, 8 in 1,
+	Legendary Wings/1.jpg,
+	Legendary Wings/2.jpg,
+	Legendary Wings/3.jpg,
+	Legendary Wings/4.jpg,
+	Legendary Wings/5.jpg,
+	Legendary Wings/6.jpg,
+	Legendary Wings/7.jpg;
 			
 Lethal Weapon, "Ocean", "MMC-1", "1992", "7 in 1",
 	Lethal Weapon/1.jpg",
