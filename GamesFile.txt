@@ -67,7 +67,13 @@ Arkanoid, Taito, NROM, 1987, 64 in 1,
 Alien 3, Ljn, MMC-3, 1992, 3 in 1,
  	Alien 3/1.jpg,
  	Alien 3/2.jpg,
- 	Alien 3/3.jpg;
+	Alien 3/3.jpg,
+	Alien 3/4.jpg,
+	Alien 3/5.jpg,
+	Alien 3/6.jpg,
+	Alien 3/7.jpg,
+	Alien 3/8.jpg,
+ 	Alien 3/9.jpg;
 
 Antarctic Adventure, Konami, NROM, 1984, 64 in 1,
  	Antarctic Adventure/1.jpg,
