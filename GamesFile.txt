@@ -1037,20 +1037,22 @@ Macross, "no name", "unknown", "1985", "Multigames",
 	1. General/9.jpg",
 	1. General/10.jpg";
  			
-Mario Bros, "Nintendo", "NROM", "1983", "Multigames",
-	Mario Bross/1.jpg",
-	Mario Bross/2.jpg",
-	1. General/4.jpg",
-	1. General/9.jpg",
-	1. General/10.jpg";
+Mario Bros, Nintendo, NROM, 1983, Multigames,
+	Mario Bross/1.jpg,
+	Mario Bross/2.jpg,
+	Mario Bross/3.jpg,
+	Mario Bross/4.jpg,
+	1. General/4.jpg,
+	1. General/9.jpg,
+	1. General/10.jpg;
 			
-Super Mario Bros, "Nintendo", "NROM", "1985", "1 in 1",
-	Super Mario Bross/1.jpg",
-	Super Mario Bross/2.jpg",
-	Super Mario Bross/3.jpg",
-	Super Mario Bross/4.jpg",
-	Super Mario Bross/5.jpg",
-	Super Mario Bross/6.jpg",
+Super Mario Bros, Nintendo, NROM, 1985, 1 in 1,
+	Super Mario Bross/1.jpg,
+	Super Mario Bross/2.jpg,
+	Super Mario Bross/3.jpg,
+	Super Mario Bross/4.jpg,
+	Super Mario Bross/5.jpg,
+	Super Mario Bross/6.jpg,
 	1. General/10.jpg;
 			
 Super Mario Bros 2, "Nintendo", "MMC-3", "1986", "4 in 1",
