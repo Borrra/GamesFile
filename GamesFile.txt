@@ -706,11 +706,16 @@ Guerrilla War, "SNK", "MMC-1", "1989", "3 in 1",
 	Guerrilla War/2.jpg",
 	Guerrilla War/3.jpg";
 			
-Gun. Smoke, "Capcom", "UNROM", "1987", "8 in 1",
+Gun. Smoke, Capcom, UNROM, 1987, 8 in 1,
 	Gun. Smoke/1.png,
 	Gun. Smoke/2.jpg,
 	Gun. Smoke/3.jpg,
-	Gun. Smoke/4.jpg;
+	Gun. Smoke/4.jpg,
+	Gun. Smoke/5.jpg,
+	Gun. Smoke/6.jpg,
+	Gun. Smoke/7.jpg,
+	Gun. Smoke/8.jpg,
+	Gun. Smoke/9.jpg;
 			
 Gyrodine, "Taito", "CNROM", "1986", "23 in 1",
 	Gyrodine/1.jpg",
