@@ -927,10 +927,15 @@ Legendary Wings, Capcom, UNROM, 1988, 8 in 1,
 	Legendary Wings/6.jpg,
 	Legendary Wings/7.jpg;
 			
-Lethal Weapon, "Ocean", "MMC-1", "1992", "7 in 1",
-	Lethal Weapon/1.jpg",
-	Lethal Weapon/2.jpg",
-	Lethal Weapon/3.jpg";
+Lethal Weapon, Ocean, MMC-1, 1992, 7 in 1,
+	Lethal Weapon/1.jpg,
+	Lethal Weapon/2.jpg,
+	Lethal Weapon/3.jpg,
+	Lethal Weapon/4.jpg,
+	Lethal Weapon/5.jpg,
+	Lethal Weapon/6.jpg,
+	Lethal Weapon/7.jpg,
+	Lethal Weapon/8.jpg;
 			
 Life Force, "Konami", "UNROM", "1988", "Claster's Cartrige",
 	Life force/1.jpg",
