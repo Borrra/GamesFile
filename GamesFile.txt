@@ -1324,11 +1324,14 @@ Othello, "Acclaim", "NROM", "1988", 1 in 1,
 
 	// P
 			
-Pac-Man, "Namco", "NROM", "1980", 64 in 1,
+Pac-Man, Namco, NROM, 1980, 64 in 1,
 	Pac-Man/1.jpg,
 	Pac-Man/2.jpg,
 	Pac-Man/3.jpg,
 	Pac-Man/4.jpg,
+	Pac-Man/5.jpg,
+	Pac-Man/6.jpg,
+	Pac-Man/7.jpg,
 	1. General/9.jpg;
                               
 Pac-Mania, "Namco", "NROM", "1987", Claster's Cartrige,
