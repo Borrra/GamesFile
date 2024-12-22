@@ -968,12 +968,17 @@ Linus Spacehead's Cosmic, "Code Masters", "UNROM", "1992", Claster's Cartrige,
 	Linus Spacehead's/1.jpg,
 	Linus Spacehead's/2.jpg;
 			
-The Little Mermaid, "Capcom", "UNROM", "1991", "4 in 1",
+The Little Mermaid, Capcom, UNROM, 1991, 4 in 1,
 	Mermaid/1.jpg,
 	Mermaid/2.jpg,
 	Mermaid/3.jpg,
 	Mermaid/4.jpg,
-	Mermaid/5.jpg;
+	Mermaid/5.jpg,
+	Mermaid/6.jpg,
+	Mermaid/7.jpg,
+	Mermaid/8.jpg,
+	Mermaid/9.jpg,
+	Mermaid/10.jpg;
 			
 Lode Runner 1, Hudson Soft, NROM, 1984, 1 in 1,
 	Lode Runner/1.jpg,
