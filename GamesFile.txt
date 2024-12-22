@@ -1723,10 +1723,14 @@ TMNT, Ultra, MMC-1, 1989, 4 in 1,
 	Teenage Mutant Ninja Turtles/8.jpg,
         1. General/7.jpg; 
 			
-TMNT 2, "Ultra", "MMC-3", "1990", "3 in 1",
-	Teenage Mutant Ninja Turtles 2/1.jpg",
-	Teenage Mutant Ninja Turtles 2/2.jpg",
-	Teenage Mutant Ninja Turtles 2/3.jpg",
+TMNT 2, Ultra, MMC-3, 1990, 3 in 1,
+	Teenage Mutant Ninja Turtles 2/1.jpg,
+	Teenage Mutant Ninja Turtles 2/2.jpg,
+	Teenage Mutant Ninja Turtles 2/3.jpg,
+	Teenage Mutant Ninja Turtles 2/4.jpg,
+	Teenage Mutant Ninja Turtles 2/5.jpg,
+	Teenage Mutant Ninja Turtles 2/6.jpg,
+	Teenage Mutant Ninja Turtles 2/7.jpg,
         1. General/7.jpg;
 			
 TMNT 3, "Konami", "MMC-3", "1992", "3 in 1",
