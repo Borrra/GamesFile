@@ -949,10 +949,15 @@ Little Mario (Xiao ma li), no name, NROM, 1986, 9999 in 1,
 	Little Mario (Xiao ma li)/5.jpg;
 
 			
-Little Nemo The Dream Master, "Capcom", "MMC-3", "1990", "1 in 1",
-	Little Nemo - The Dream Master/1.jpg",
-	Little Nemo - The Dream Master/2.jpg",
-	Little Nemo - The Dream Master/3.jpg",
+Little Nemo The Dream Master, Capcom, MMC-3, 1990, 1 in 1,
+	Little Nemo - The Dream Master/1.jpg,
+	Little Nemo - The Dream Master/2.jpg,
+	Little Nemo - The Dream Master/3.jpg,
+	Little Nemo - The Dream Master/4.jpg,
+	Little Nemo - The Dream Master/5.jpg,
+	Little Nemo - The Dream Master/6.jpg,
+	Little Nemo - The Dream Master/7.jpg,
+	Little Nemo - The Dream Master/8.jpg,
         1. General/11.jpg;
 			
 Little Samson, "Taito, "MMC-3", "1992", Claster's Cartrige,
