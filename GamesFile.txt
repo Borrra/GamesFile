@@ -1736,11 +1736,19 @@ TMNT 2, Ultra, MMC-3, 1990, 3 in 1,
 	Teenage Mutant Ninja Turtles 2/7.jpg,
         1. General/7.jpg;
 			
-TMNT 3, "Konami", "MMC-3", "1992", "3 in 1",
+TMNT 3, Konami, MMC-3, 1992, 3 in 1,
 	Teenage Mutant Ninja Turtles III The Manhattan Project/1.jpg,
 	Teenage Mutant Ninja Turtles III The Manhattan Project/2.jpg,
 	Teenage Mutant Ninja Turtles III The Manhattan Project/3.jpg,
 	Teenage Mutant Ninja Turtles III The Manhattan Project/4.jpg,
+	Teenage Mutant Ninja Turtles III The Manhattan Project/5.jpg,
+	Teenage Mutant Ninja Turtles III The Manhattan Project/6.jpg,
+	Teenage Mutant Ninja Turtles III The Manhattan Project/7.jpg,
+	Teenage Mutant Ninja Turtles III The Manhattan Project/8.jpg,
+	Teenage Mutant Ninja Turtles III The Manhattan Project/9.jpg,
+	Teenage Mutant Ninja Turtles III The Manhattan Project/10.jpg,
+	Teenage Mutant Ninja Turtles III The Manhattan Project/11.jpg,
+	Teenage Mutant Ninja Turtles III The Manhattan Project/12.jpg,
         1. General/7.jpg;
 			
 TMNT Fighting, "Konami", "MMC-3", "1993", "2 in 1",
