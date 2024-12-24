@@ -1985,10 +1985,13 @@ Yume Penguin Monogatari", "Konami", "MMC-3", "1991", "Claster's Cartrige",
 
 	// Z
 			
-Zanac", "FCI", "UNROM", "1987", "8 in 1",
-	Zanac/1.jpg",
-	Zanac/2.jpg",
-	Zanac/3.jpg";
+Zanac, FCI, UNROM, 1987, 8 in 1,
+	Zanac/1.jpg,
+	Zanac/2.jpg,
+	Zanac/3.jpg,
+	Zanac/4.jpg,
+	Zanac/5.jpg,
+	Zanac/6.jpg;
 			
 Zelda 2", "Nintendo", "MMC-1", "1992", "Claster's Cartrige",
 	The Legend of Zelda 2 (The Legend of Link)/1.jpg",
