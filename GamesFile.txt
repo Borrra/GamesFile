@@ -1151,12 +1151,15 @@ Mickey Mouse 3: Yume Fuusen, Kemco, unknown, "1993", Claster's Cartrige,
 	Mickey Mouse 3/2.jpg, 
 	Mickey Mouse 3/3.jpg; 
        
-Mickey Mouse Mousecapade, "Capcom", unknown, "1987", 1 in 1,
+Mickey Mouse Mousecapade, Capcom, unknown, 1987, 1 in 1,
 	Mickey Mouse Mousecapade/1.jpg,
 	Mickey Mouse Mousecapade/2.jpg,
 	Mickey Mouse Mousecapade/3.jpg,
 	Mickey Mouse Mousecapade/4.jpg,
-	Mickey Mouse Mousecapade/5.jpg;	     
+	Mickey Mouse Mousecapade/5.jpg,
+	Mickey Mouse Mousecapade/6.jpg,
+	Mickey Mouse Mousecapade/7.jpg,
+	Mickey Mouse Mousecapade/8.jpg;	     
         
 Mickey's Safari in Latterland, Hi Tech Expressions, unknown, "1992", Claster's Cartrige,
 	Mickey's Safari in Latterland/1.jpg,
