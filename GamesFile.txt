@@ -1314,12 +1314,15 @@ Ninja Crusaders, "Sammy", "MMC-3", "1990", Claster's Cartrige,
 	Ninja Crusaders/3.jpg,
 	1. General/3.jpg;         
            
-Nuts & Milk, "Nintendo", "NROM", "1985", Multigames,
+Nuts & Milk, Nintendo, NROM, 1985, Multigames,
 	Nuts & Milk/1.jpg,
 	Nuts & Milk/2.jpg,
 	Nuts & Milk/3.jpg,
 	Nuts & Milk/4.jpg,
 	Nuts & Milk/5.jpg,
+	Nuts & Milk/6.jpg,
+	Nuts & Milk/7.jpg,
+	Nuts & Milk/8.jpg,
 	1. General/9.jpg,
 	1. General/10.jpg;
 
