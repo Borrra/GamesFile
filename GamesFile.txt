@@ -1658,10 +1658,14 @@ Sword Master, "Activision", "unknown", "1990", Claster's Cartrige,
 	Sword Master/3.jpg,
 	1. General/3.jpg;
 			
-Spy VS Spy, "Kemco", "NROM", "1984", "7 in 1",
+Spy VS Spy, Kemco, NROM, 1984, 7 in 1,
 	Spy VS Spy/1.jpg,
 	Spy VS Spy/2.jpg,
-	Spy VS Spy/3.jpg; 
+	Spy VS Spy/3.jpg,
+	Spy VS Spy/4.jpg,
+	Spy VS Spy/5.jpg,
+	Spy VS Spy/6.jpg,
+	Spy VS Spy/7.jpg; 
 			
 Street Fighter, Pirate Stuff, unknown, "1993", 4 in 1,
 	Street Fighter/1.jpg,
