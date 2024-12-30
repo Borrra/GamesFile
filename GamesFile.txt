@@ -594,13 +594,15 @@ Friday The 13-th, "Ljn", "unknown", "1988", Claster's Cartrige,
 
 	// G
 						
-Galaga, "Namco", "NROM", "1981", "Multigame",
-	Galaga/1.jpg",
-	Galaga/2.jpg",
-	Galaga/3.jpg",
-	1. General/4.jpg",
-	1. General/9.jpg",
-	1. General/10.jpg";
+Galaga, Namco, NROM, 1981, Multigame,
+	Galaga/1.jpg,
+	Galaga/2.jpg,
+	Galaga/3.jpg,
+	Galaga/4.jpg,
+	Galaga/5.jpg,
+	1. General/4.jpg,
+	1. General/9.jpg,
+	1. General/10.jpg;
 			
 Great Tank, "SNK", "MMC-1", "1988", "2 in 1",
 	Great Tank/1.jpg",
