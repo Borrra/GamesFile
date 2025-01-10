@@ -95,9 +95,15 @@ Banana Prince, Takara, MMC-3, 1992, 2 in 1,
 	Banana Prince/5.jpg,
  	Banana Prince/6.jpg;
 
-Bucky O'Hare,  Konami, MMC-3, 1991, Claster's Cartrige,
+Bucky O'Hare, Konami, MMC-3, 1991, Claster's Cartrige,
  	Bucky O'Hare/1.jpg,
- 	Bucky O'Hare/2.jpg;
+	Bucky O'Hare/2.jpg,
+	Bucky O'Hare/3.jpg,
+	Bucky O'Hare/4.jpg,
+	Bucky O'Hare/5.jpg,
+	Bucky O'Hare/6.jpg,
+	Bucky O'Hare/7.jpg,
+ 	Bucky O'Hare/8.jpg;
 
 The Best from The Best, Loriciel, UNROM, 1992, 8 in 1,
  	Best of the Best/1.jpg,
