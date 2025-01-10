@@ -737,10 +737,14 @@ Gyrodine, "Taito", "CNROM", "1986", "23 in 1",
 
 	// H
 			
-Heavy Barrel, "Data East", "MMC-3", "1989", "Claster's Cartrige",
-	Heavy Barrel/1.jpg",
-	Heavy Barrel/2.jpg",
-	Heavy Barrel/3.jpg";
+Heavy Barrel, Data East, MMC-3, 1989, Claster's Cartrige,
+	Heavy Barrel/1.jpg,
+	Heavy Barrel/2.jpg,
+	Heavy Barrel/3.jpg,
+	Heavy Barrel/4.jpg,
+	Heavy Barrel/5.jpg,
+	Heavy Barrel/6.jpg,
+	Heavy Barrel/7.jpg;
 		    
 Home Alone 1, "Toy Headquarters", "MMC-3", "1991", "Claster's Cartrige",
 	Home Alone/1.jpg",
