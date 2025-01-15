@@ -244,7 +244,12 @@ CastleQuest (Castle Excellent), Nexoft, CNROM, 1986, 7 in 1,
 ClifHanger, SONY ImageSoft, MMC-3, 1991, 2 in 1,
  Cliffhanger/1.jpg,
  Cliffhanger/2.jpg,
- Cliffhanger/3.jpg;
+ Cliffhanger/3.jpg,
+ Cliffhanger/4.jpg,
+ Cliffhanger/5.jpg,
+ Cliffhanger/6.jpg,
+ Cliffhanger/7.jpg,
+ Cliffhanger/8.jpg;
 
 Chip and Dale 1, Capcom, MMC-1, 1990, 1 in 1,
  Chip & Dale Rescue Rangers 1/1.jpg,
@@ -613,13 +618,16 @@ Great Tank, "SNK", "MMC-1", "1988", "2 in 1",
 	Great Tank/2.jpg",
 	Great Tank/3.jpg";     
 			
-Galaxian, "Namco", "NROM", "1979", "Multigame",
-	Galaxian/1.jpg",
-	Galaxian/2.jpg",
-	Galaxian/3.png",
-	1. General/4.jpg",
-	1. General/9.jpg",
-	1. General/10.jpg";
+Galaxian, Namco, NROM, 1979, Multigame,
+	Galaxian/1.jpg,
+	Galaxian/2.jpg,
+	Galaxian/3.png,
+	Galaxian/4.jpg,
+	Galaxian/5.jpg,
+	Galaxian/6.jpg,
+	1. General/4.jpg,
+	1. General/9.jpg,
+	1. General/10.jpg;
                    
 Galaxy 5000, "Activision", "NROM", "1991", Claster's Cartrige,
 	Galaxy 5000/1.jpg;
